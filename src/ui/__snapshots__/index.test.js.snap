@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`can render vertical space 1`] = `
+<div
+  className="sc-AykKD kYfJla"
+  size={1}
+/>
+`;
+
+exports[`defaults to horizontal space 1`] = `
+<div
+  className="sc-AykKC jujAmj"
+  size={1}
+/>
+`;
