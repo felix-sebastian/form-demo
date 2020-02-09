@@ -1,13 +1,14 @@
 import React from "react";
 import styled from "styled-components";
 import ui from "../ui";
+import PageOne from "./pageOne";
+import PageTwo from "./pageTwo";
 import Outer from "./outer";
 import Footer from "./footer";
 import Header from "./header";
+import useForm from "./useForm";
 import { Switch, Route, Redirect } from "react-router-dom";
 import Success from "./success";
-import PageOne from "./pageOne";
-import PageTwo from "./pageTwo";
 
 const { space: Space } = ui;
 
@@ -16,6 +17,26 @@ const Inner = styled.div`
 `;
 
 export default () => {
+  const {
+    storeType,
+    setStoreType,
+    users,
+    user,
+    setUser,
+    metroDetails,
+    setMetroDetails,
+    role,
+    setRole,
+    date,
+    setDate,
+    victoria,
+    setVictoria,
+    suburb,
+    setSuburb,
+    submit,
+    hint
+  } = useForm();
+
   return (
     <Outer>
       <Space vertical />
@@ -29,10 +50,33 @@ export default () => {
         </Switch>
         <Switch>
           <Route path="/1">
-            <PageOne storeType={0} users={[]} />
+            <PageOne
+              {...{
+                storeType,
+                setStoreType,
+                users,
+                user,
+                setUser,
+                metroDetails,
+                setMetroDetails,
+                hint
+              }}
+            />
           </Route>
           <Route path="/2">
-            <PageTwo />
+            <PageTwo
+              {...{
+                role,
+                setRole,
+                date,
+                setDate,
+                victoria,
+                setVictoria,
+                suburb,
+                setSuburb,
+                hint
+              }}
+            />
           </Route>
           <Route path="/pending">
             <Success pending />
@@ -44,7 +88,7 @@ export default () => {
         </Switch>
         <Switch>
           <Route path="/(1|2)">
-            <Footer />
+            <Footer submit={submit} />
             <Space />
           </Route>
         </Switch>

@@ -10,7 +10,7 @@ const Box = styled.div`
   justify-content: space-between;
 `;
 
-export default () => {
+export default ({ submit }) => {
   const { pathname } = useLocation();
   const history = useHistory();
 
@@ -30,7 +30,7 @@ export default () => {
           </Button>
         </Route>
         <Route path="/2">
-          <Button handleClick={() => alert("Submit")}>Submit</Button>
+          <Button handleClick={submit}>Submit</Button>
         </Route>
       </Switch>
     </Box>
