@@ -7,6 +7,7 @@ import Header from "./header";
 import { Switch, Route, Redirect } from "react-router-dom";
 import Success from "./success";
 import PageOne from "./pageOne";
+import PageTwo from "./pageTwo";
 
 const { space: Space } = ui;
 
@@ -31,7 +32,7 @@ export default () => {
             <PageOne storeType={0} users={[]} />
           </Route>
           <Route path="/2">
-            <p>Page two</p>
+            <PageTwo />
           </Route>
           <Route path="/pending">
             <Success pending />
