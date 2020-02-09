@@ -17,7 +17,7 @@ The challenge was to create a simple form which is split between 2 pages. The fo
 
 ## The solution
 
-I've opted to build most of the form components from scratch such as the select box. I could have easily used some libraries for this, but I didn't want to compromise on having a consistent style accross the UI, and was afraid if I didn't do this there wouldn't be much code left to write! This probably wouldn't have been the best trade off in a commercial context but for this task I was happy to do that.
+I've opted to build most of the form components from scratch such as the select box. I could have easily used some libraries for this, but I didn't want to compromise on having a consistent style accross the UI, and was afraid if I didn't do this there wouldn't be much code left to write! This probably wouldn't have been the best trade off in a commercial context but for this task I was happy to do that. I actually spent most of the available time building the select component.
 
 I'm using react, jest for testing, react-router to achieve the back/forward behavior and styled-components for CSS.
 
