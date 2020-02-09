@@ -1,0 +1,1059 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`form doesn't show the submit button on page one 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-fzXfMw cjoUFg"
+    >
+      <div
+        class="sc-AykKD kYfJla"
+        size="1"
+      />
+      <div
+        class="sc-fzXfMB dCyCwt"
+      >
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-fzXfMy tIPtG"
+        >
+          Update user details
+        </div>
+        <div
+          class="sc-AykKC iNGtUv"
+        />
+        <div
+          class="sc-fzXfMz cybkc"
+        >
+          Page 
+          1
+           of 2
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          Store type
+        </div>
+        <div
+          class="sc-fzXfLS iGPHdu"
+        >
+          <div
+            class="sc-AykKK iDYesH"
+            data-testid="input"
+          >
+            <input
+              class="sc-AykKG cqNAOG sc-fzXfLO cmgYol"
+              placeholder="Select one"
+              value=""
+            />
+            <div
+              class="sc-fzXfLP eEsujw"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-fzXfLQ heggpP"
+          />
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          User lookup
+        </div>
+        <div
+          class="sc-fzXfLS iGPHdu"
+        >
+          <div
+            class="sc-AykKK iDYesH"
+            data-testid="input"
+          >
+            <input
+              class="sc-AykKG cqNAOG sc-fzXfLO cmgYol"
+              placeholder="Select one"
+              value=""
+            />
+            <div
+              class="sc-fzXfLP eEsujw"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-fzXfLQ heggpP"
+          />
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          First name
+        </div>
+        <input
+          class="sc-AykKG cqNAOG"
+          disabled=""
+          value=""
+        />
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          Last name
+        </div>
+        <input
+          class="sc-AykKG cqNAOG"
+          disabled=""
+          value=""
+        />
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-fzXfMx fLaIQQ"
+        >
+          <button
+            class="sc-fzXfLT eZyHWs"
+            data-testid="page-back"
+            disabled=""
+          >
+            Back
+          </button>
+          <button
+            class="sc-fzXfLT jqIoSv"
+            data-testid="page-forward"
+          >
+            Next page
+          </button>
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+      </div>
+      <div
+        class="sc-AykKD kYfJla"
+        size="1"
+      />
+    </div>
+  </div>
+</body>
+`;
+
+exports[`form initially renders page one 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-fzXfMw cjoUFg"
+    >
+      <div
+        class="sc-AykKD kYfJla"
+        size="1"
+      />
+      <div
+        class="sc-fzXfMB dCyCwt"
+      >
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-fzXfMy tIPtG"
+        >
+          Update user details
+        </div>
+        <div
+          class="sc-AykKC iNGtUv"
+        />
+        <div
+          class="sc-fzXfMz cybkc"
+        >
+          Page 
+          1
+           of 2
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          Store type
+        </div>
+        <div
+          class="sc-fzXfLS iGPHdu"
+        >
+          <div
+            class="sc-AykKK iDYesH"
+            data-testid="input"
+          >
+            <input
+              class="sc-AykKG cqNAOG sc-fzXfLO cmgYol"
+              placeholder="Select one"
+              value=""
+            />
+            <div
+              class="sc-fzXfLP eEsujw"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-fzXfLQ heggpP"
+          />
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          User lookup
+        </div>
+        <div
+          class="sc-fzXfLS iGPHdu"
+        >
+          <div
+            class="sc-AykKK iDYesH"
+            data-testid="input"
+          >
+            <input
+              class="sc-AykKG cqNAOG sc-fzXfLO cmgYol"
+              placeholder="Select one"
+              value=""
+            />
+            <div
+              class="sc-fzXfLP eEsujw"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-fzXfLQ heggpP"
+          />
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          First name
+        </div>
+        <input
+          class="sc-AykKG cqNAOG"
+          disabled=""
+          value=""
+        />
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          Last name
+        </div>
+        <input
+          class="sc-AykKG cqNAOG"
+          disabled=""
+          value=""
+        />
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-fzXfMx fLaIQQ"
+        >
+          <button
+            class="sc-fzXfLT eZyHWs"
+            data-testid="page-back"
+            disabled=""
+          >
+            Back
+          </button>
+          <button
+            class="sc-fzXfLT jqIoSv"
+            data-testid="page-forward"
+          >
+            Next page
+          </button>
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+      </div>
+      <div
+        class="sc-AykKD kYfJla"
+        size="1"
+      />
+    </div>
+  </div>
+</body>
+`;
+
+exports[`form shows the submit button on page two 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-fzXfMw cjoUFg"
+    >
+      <div
+        class="sc-AykKD kYfJla"
+        size="1"
+      />
+      <div
+        class="sc-fzXfMB dCyCwt"
+      >
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-fzXfMy tIPtG"
+        >
+          Update user details
+        </div>
+        <div
+          class="sc-AykKC iNGtUv"
+        />
+        <div
+          class="sc-fzXfMz cybkc"
+        >
+          Page 
+          2
+           of 2
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          What is the user's role?
+        </div>
+        <div
+          class="sc-fzXfLS iGPHdu"
+        >
+          <div
+            class="sc-AykKK iDYesH"
+            data-testid="input"
+          >
+            <input
+              class="sc-AykKG cqNAOG sc-fzXfLO cmgYol"
+              placeholder="Select one"
+              value=""
+            />
+            <div
+              class="sc-fzXfLP eEsujw"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-fzXfLQ heggpP"
+          />
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          When did the user first join?
+        </div>
+        <div
+          class="sc-fzXfLS iGPHdu"
+        >
+          <input
+            class="sc-AykKG cqNAOG"
+            value="9/2/2020"
+          />
+          <div
+            class="sc-fzXfLQ heggpP"
+          />
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          Is the person located in Victoria?
+        </div>
+        <div
+          class="sc-fzXfLV dLsVKK"
+        >
+          <div
+            class="sc-fzXfLX hYSXgP"
+            data-testid="row"
+          >
+            <div
+              class="sc-fzXfLW kygkLb"
+              tabindex="0"
+            />
+            Yes
+          </div>
+          <div
+            class="sc-AykKC iNGtUv"
+          />
+          <div
+            class="sc-fzXfLX hYSXgP"
+            data-testid="row"
+          >
+            <div
+              class="sc-fzXfLW liwBUF"
+              tabindex="0"
+            />
+            No
+          </div>
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          Where in Victoria?
+        </div>
+        <input
+          class="sc-AykKG cqNAOG"
+          value=""
+        />
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-fzXfMx fLaIQQ"
+        >
+          <button
+            class="sc-fzXfLT jqIoSv"
+            data-testid="page-back"
+          >
+            Back
+          </button>
+          <button
+            class="sc-fzXfLT jqIoSv"
+          >
+            Submit
+          </button>
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+      </div>
+      <div
+        class="sc-AykKD kYfJla"
+        size="1"
+      />
+    </div>
+  </div>
+</body>
+`;
+
+exports[`form will let you go back from page two 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-fzXfMw cjoUFg"
+    >
+      <div
+        class="sc-AykKD kYfJla"
+        size="1"
+      />
+      <div
+        class="sc-fzXfMB dCyCwt"
+      >
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-fzXfMy tIPtG"
+        >
+          Update user details
+        </div>
+        <div
+          class="sc-AykKC iNGtUv"
+        />
+        <div
+          class="sc-fzXfMz cybkc"
+        >
+          Page 
+          2
+           of 2
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          What is the user's role?
+        </div>
+        <div
+          class="sc-fzXfLS iGPHdu"
+        >
+          <div
+            class="sc-AykKK iDYesH"
+            data-testid="input"
+          >
+            <input
+              class="sc-AykKG cqNAOG sc-fzXfLO cmgYol"
+              placeholder="Select one"
+              value=""
+            />
+            <div
+              class="sc-fzXfLP eEsujw"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-fzXfLQ heggpP"
+          />
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          When did the user first join?
+        </div>
+        <div
+          class="sc-fzXfLS iGPHdu"
+        >
+          <input
+            class="sc-AykKG cqNAOG"
+            value="9/2/2020"
+          />
+          <div
+            class="sc-fzXfLQ heggpP"
+          />
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          Is the person located in Victoria?
+        </div>
+        <div
+          class="sc-fzXfLV dLsVKK"
+        >
+          <div
+            class="sc-fzXfLX hYSXgP"
+            data-testid="row"
+          >
+            <div
+              class="sc-fzXfLW kygkLb"
+              tabindex="0"
+            />
+            Yes
+          </div>
+          <div
+            class="sc-AykKC iNGtUv"
+          />
+          <div
+            class="sc-fzXfLX hYSXgP"
+            data-testid="row"
+          >
+            <div
+              class="sc-fzXfLW liwBUF"
+              tabindex="0"
+            />
+            No
+          </div>
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          Where in Victoria?
+        </div>
+        <input
+          class="sc-AykKG cqNAOG"
+          value=""
+        />
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-fzXfMx fLaIQQ"
+        >
+          <button
+            class="sc-fzXfLT jqIoSv"
+            data-testid="page-back"
+          >
+            Back
+          </button>
+          <button
+            class="sc-fzXfLT jqIoSv"
+          >
+            Submit
+          </button>
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+      </div>
+      <div
+        class="sc-AykKD kYfJla"
+        size="1"
+      />
+    </div>
+  </div>
+</body>
+`;
+
+exports[`form will let you go back from page two 2`] = `
+<body>
+  <div>
+    <div
+      class="sc-fzXfMw cjoUFg"
+    >
+      <div
+        class="sc-AykKD kYfJla"
+        size="1"
+      />
+      <div
+        class="sc-fzXfMB dCyCwt"
+      >
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-fzXfMy tIPtG"
+        >
+          Update user details
+        </div>
+        <div
+          class="sc-AykKC iNGtUv"
+        />
+        <div
+          class="sc-fzXfMz cybkc"
+        >
+          Page 
+          1
+           of 2
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          Store type
+        </div>
+        <div
+          class="sc-fzXfLS iGPHdu"
+        >
+          <div
+            class="sc-AykKK iDYesH"
+            data-testid="input"
+          >
+            <input
+              class="sc-AykKG cqNAOG sc-fzXfLO cmgYol"
+              placeholder="Select one"
+              value=""
+            />
+            <div
+              class="sc-fzXfLP eEsujw"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-fzXfLQ heggpP"
+          />
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          User lookup
+        </div>
+        <div
+          class="sc-fzXfLS iGPHdu"
+        >
+          <div
+            class="sc-AykKK iDYesH"
+            data-testid="input"
+          >
+            <input
+              class="sc-AykKG cqNAOG sc-fzXfLO cmgYol"
+              placeholder="Select one"
+              value=""
+            />
+            <div
+              class="sc-fzXfLP eEsujw"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-fzXfLQ heggpP"
+          />
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          First name
+        </div>
+        <input
+          class="sc-AykKG cqNAOG"
+          disabled=""
+          value=""
+        />
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          Last name
+        </div>
+        <input
+          class="sc-AykKG cqNAOG"
+          disabled=""
+          value=""
+        />
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-fzXfMx fLaIQQ"
+        >
+          <button
+            class="sc-fzXfLT eZyHWs"
+            data-testid="page-back"
+            disabled=""
+          >
+            Back
+          </button>
+          <button
+            class="sc-fzXfLT jqIoSv"
+            data-testid="page-forward"
+          >
+            Next page
+          </button>
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+      </div>
+      <div
+        class="sc-AykKD kYfJla"
+        size="1"
+      />
+    </div>
+  </div>
+</body>
+`;
+
+exports[`form won't let you go back from page one 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-fzXfMw cjoUFg"
+    >
+      <div
+        class="sc-AykKD kYfJla"
+        size="1"
+      />
+      <div
+        class="sc-fzXfMB dCyCwt"
+      >
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-fzXfMy tIPtG"
+        >
+          Update user details
+        </div>
+        <div
+          class="sc-AykKC iNGtUv"
+        />
+        <div
+          class="sc-fzXfMz cybkc"
+        >
+          Page 
+          1
+           of 2
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          Store type
+        </div>
+        <div
+          class="sc-fzXfLS iGPHdu"
+        >
+          <div
+            class="sc-AykKK iDYesH"
+            data-testid="input"
+          >
+            <input
+              class="sc-AykKG cqNAOG sc-fzXfLO cmgYol"
+              placeholder="Select one"
+              value=""
+            />
+            <div
+              class="sc-fzXfLP eEsujw"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-fzXfLQ heggpP"
+          />
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          User lookup
+        </div>
+        <div
+          class="sc-fzXfLS iGPHdu"
+        >
+          <div
+            class="sc-AykKK iDYesH"
+            data-testid="input"
+          >
+            <input
+              class="sc-AykKG cqNAOG sc-fzXfLO cmgYol"
+              placeholder="Select one"
+              value=""
+            />
+            <div
+              class="sc-fzXfLP eEsujw"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="sc-fzXfLQ heggpP"
+          />
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          First name
+        </div>
+        <input
+          class="sc-AykKG cqNAOG"
+          disabled=""
+          value=""
+        />
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-AykKE cjYGjR"
+        >
+          Last name
+        </div>
+        <input
+          class="sc-AykKG cqNAOG"
+          disabled=""
+          value=""
+        />
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+        <div
+          class="sc-fzXfMx fLaIQQ"
+        >
+          <button
+            class="sc-fzXfLT eZyHWs"
+            data-testid="page-back"
+            disabled=""
+          >
+            Back
+          </button>
+          <button
+            class="sc-fzXfLT jqIoSv"
+            data-testid="page-forward"
+          >
+            Next page
+          </button>
+        </div>
+        <div
+          class="sc-AykKC jujAmj"
+          size="1"
+        />
+      </div>
+      <div
+        class="sc-AykKD kYfJla"
+        size="1"
+      />
+    </div>
+  </div>
+</body>
+`;
