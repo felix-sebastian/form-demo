@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`displays the current value 1`] = `
+<div
+  className="sc-AykKC KLKSr"
+  data-testid="input"
+>
+  <input
+    className="sc-AykKD hcLsZH sc-AykKE ddfZRt"
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder="Select one"
+    value="Foo"
+  />
+  <div
+    className="sc-AykKF chmxPI"
+  >
+    <svg
+      aria-hidden="true"
+      className="MuiSvgIcon-root"
+      focusable="false"
+      role="presentation"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`displays the cursored option 1`] = `
+<div
+  className="sc-AykKC bftxTE"
+  data-testid="input"
+>
+  <input
+    className="sc-AykKD hcLsZH sc-AykKE ddfZRt"
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder="Bar"
+    value=""
+  />
+  <div
+    className="sc-AykKF chmxPI"
+  >
+    <svg
+      aria-hidden="true"
+      className="MuiSvgIcon-root"
+      focusable="false"
+      role="presentation"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+      />
+    </svg>
+  </div>
+</div>
+`;

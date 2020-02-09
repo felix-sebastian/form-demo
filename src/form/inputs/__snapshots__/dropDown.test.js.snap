@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`displays the flyout 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-AykKE kwvMmO"
+    >
+      <div>
+        foo
+      </div>
+      <div
+        class="sc-AykKC hzReHz"
+      >
+        <div
+          class="sc-AykKD gWCpNp"
+        >
+          <div>
+            bar
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`hides the flyout 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-AykKE kwvMmO"
+    >
+      <div>
+        foo
+      </div>
+      <div
+        class="sc-AykKC hzReHz"
+      />
+    </div>
+  </div>
+</body>
+`;

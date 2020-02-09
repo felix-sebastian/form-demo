@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the active input 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-AykKE gxUNkH"
+    >
+      <div
+        class="sc-AykKG ciIkEo"
+        data-testid="row"
+      >
+        <div
+          class="sc-AykKF iZvGwK"
+          tabindex="0"
+        />
+        Foo
+      </div>
+      <div
+        class="sc-AykKC iNGtUv"
+      />
+      <div
+        class="sc-AykKG ciIkEo"
+        data-testid="row"
+      >
+        <div
+          class="sc-AykKF gBcjvM"
+          tabindex="0"
+        />
+        Bar
+      </div>
+      <div
+        class="sc-AykKC iNGtUv"
+      />
+      <div
+        class="sc-AykKG ciIkEo"
+        data-testid="row"
+      >
+        <div
+          class="sc-AykKF iZvGwK"
+          tabindex="0"
+        />
+        Baz
+      </div>
+    </div>
+  </div>
+</body>
+`;

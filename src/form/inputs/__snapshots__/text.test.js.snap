@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`displays the current value 1`] = `
+<input
+  className="sc-AykKC bfeSMK"
+  onBlur={[Function]}
+  onChange={[Function]}
+  onFocus={[Function]}
+  value="Foo"
+/>
+`;

@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`displays the current value 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-fzXfLO eLTAmS"
+    >
+      <div
+        class="sc-AykKF kLqURO"
+        data-testid="input"
+      >
+        <input
+          class="sc-AykKG cqNAOG sc-AykKH hepfOY"
+          placeholder="Foo"
+          value=""
+        />
+        <div
+          class="sc-AykKI gsuSVD"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="sc-AykKJ fHucFO"
+      />
+    </div>
+  </div>
+</body>
+`;
