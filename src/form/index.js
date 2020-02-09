@@ -6,6 +6,7 @@ import Footer from "./footer";
 import Header from "./header";
 import { Switch, Route, Redirect } from "react-router-dom";
 import Success from "./success";
+import PageOne from "./pageOne";
 
 const { space: Space } = ui;
 
@@ -27,7 +28,7 @@ export default () => {
         </Switch>
         <Switch>
           <Route path="/1">
-            <p>Page one</p>
+            <PageOne storeType={0} users={[]} />
           </Route>
           <Route path="/2">
             <p>Page two</p>
